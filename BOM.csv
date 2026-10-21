@@ -1,0 +1,13 @@
+Reference,Description,Value,Package,Manufacturer / MPN,Source URL
+J1,"USB-C receptacle, power-only",USB-C,USB_C_Receptacle_USB2.0_16P,GCT USB4105-xx-A,
+F1,PTC resettable fuse 500 mA,500mA,Fuse_1206,Bourns MF-MSMF050-2,
+D1,"TVS diode, 5 V standoff",SMBJ,SMBJ5.0A,Littelfuse SMBJ5.0A,
+U1,"600 mA LDO, 3.3 V",SOT-23-5,AP2112K-3.3,Diodes Inc. AP2112K-3.3TRG1,
+C1,10 uF input ceramic,10uF,C_0805,Murata GRM21BR61A106KE51,
+C2,10 uF output ceramic,10uF,C_0805,Murata GRM21BR61A106KE51,
+R1,1 kOhm LED resistor,1k,R_0603,Yageo RC0603FR-071KL,
+D2,Green power LED,LED 0603,LED_0603,Lite-On LTST-C190KGKT,
+J2,3V3/GND/5V output,1x03 2.54mm,PinHeader_1x03,Samtec TSW-103-07-G-S,
+TP1,5 V test point,TH,TestPoint,Keystone 5011,
+TP2,3.3 V test point,TH,TestPoint,Keystone 5011,
+TP3,GND test point,TH,TestPoint,Keystone 5011,
